@@ -1,0 +1,52 @@
+
+.css-7e0s21-MuiPaper-root-MuiAppBar-root{
+    background-color: #E4E4E4 !important;
+}
+.css-1q39md6-MuiButtonBase-root-MuiButton-root{   
+    margin: 5px !important;
+    color: #fff !important;
+    background-color: #27563A !important;
+    border-radius: 45px !important;
+    padding: 5px 10px !important;
+    border: 1px solid #454545;
+    font-size: 12px !important;
+    text-align: center;
+}
+
+.css-1q39md6-MuiButtonBase-root-MuiButton-root:focus{   
+background-color: transparent !important;
+color: black !important;
+border: 1px solid #454545;
+}
+
+/* register css */
+.register{
+    background-image: url('../asserts/register.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+}
+.css-3su884-MuiPaper-root{
+    background: transparent !important;
+    box-shadow: none !important;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+    padding: 13.5px 11px!important;
+}
+
+/* Login css */
+.login{
+    background-image: url('../asserts/register.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    background-position: center ;
+}
+.nsm7Bb-HzV7m-LgbsSe {
+    border: 1px solid rgb(0, 0, 0) !important;
+    color: rgb(0, 0, 0) !important;
+    background: transparent !important;
+    padding: 10px 20px !important;
+  }
+  
